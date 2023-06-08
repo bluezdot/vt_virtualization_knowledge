@@ -1,0 +1,10 @@
+1. Ảo hóa
+2. Các công nghệ ảo hóa
+2.1. OpenStack
+2.2. Kubernetes
+
+Other:
+Hệ thống Monitoring (Đang giai đoạn thiết kế):
+- Server (Máy chủ truyền thống): Ngày xưa chỉ cần thiết kế để giám sát máy vật lý.
+- Pods (VMs): Khi triển khai ảo hóa thì phải giám sát nhiều thứ hơn.
+
