@@ -26,7 +26,7 @@ Trên thị trường nền tảng đám mây, **OpenStack** thường có sự 
     - Cung cấp dịch vụ kết nối mạng giữa các thiết bị (VD: vNIC) được quản lý bởi component khác (VD: Nova) -> OpenStack Networking API.
 - Ironic (Bare Metal):
     - Cung cấp các máy tính vật lý. Mặc định, Ironic sử dụng PXE và IPMI hoặc Redfish để cung cấp và quản lý các máy tính vật lý, nhưng nó hỗ trợ và có thể mở rộng bằng các plugins để triển khai các chức năng bổ sung.
-    - Một số dự án bổ sung nổi bật như Ironic-Inspector, Bifrost, Sushy và networking-generic-switch.
+    - Một số dự án bổ sung nổi bật như Ironic-Inspector, Bifrost, Sushy và networking-generic-switch. Ironic-Inspector cung cấp dịch vụ thu thập thông tin phần cứng và khám phá phần cứng. Bifrost tập trung và sử dụng vận hành không cần các thành phần OpenStack khác. Sushy là ứng dụng API Redfish nhẹ. Networking-generic-switch là plugin hỗ trợ quản lý cấu hình switchport cho bare metal machine.
 - Swift (Storage):
 - Cinder (Storage):
 - Keystone (Shared services):
