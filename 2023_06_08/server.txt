@@ -1,0 +1,15 @@
+Dựa trên phương pháp chế tạo:
+1. dedicated server: https://maychusaigon.vn/dedicated-server-la-gi/
+Máy chủ thông thường, hoạt động trên phần cứng và một số thiết bị như cpu, ổ cứng, ram, card mạng, ..
+2. cloud server: https://maychusaigon.vn/cloud-server-la-gi/
+Máy chủ được tạo thành từ nhiều máy chủ vật lý khác nhau và mạng lưu trữ SAN
+3. vps: https://maychusaigon.vn/may-chu-ao-vps-la-gi/
+Các máy chủ ảo được phân chia từ máy chủ vật lý dựa trên công nghệ ảo hóa. Có khả năng chia sẻ tài nguyên máy chủ
+
+Dựa trên chức năng:
+1. web server: http
+2. database server: xử lí, quản lý và truy xuất dữ liệu nhanh chóng
+3. mail server: cho phép gửi và nhận email
+4. ftp server: lưu trữ và quản lý các tập tin và cho phép truy cập, truyền tải qua Internet
+5. dhcp server: gán ip cho các thiết bị mạng, tạo cổng mặc định hoặc tạo các thông số mạng
+6. dns server: phân giải tên miền
