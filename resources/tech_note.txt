@@ -1,0 +1,2 @@
+- Grafana (Dashboard for Devops): https://levanphu.info/grafana-la-gi-huong-dan-cai-dat-grafana-cho-devops-toi-uu-hieu-nang 
+- Kibana (Phân tích dữ liệu Elasticsearch): https://levanphu.info/kibana-la-gi-tim-hieu-ve-kibana-va-su-dung-mot-cach-hieu-qua

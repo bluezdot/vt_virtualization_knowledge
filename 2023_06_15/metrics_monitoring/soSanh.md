@@ -26,6 +26,7 @@ Rank 2: M3DB & VictoriaMetrics
 Rank 1: Cortex & Thanos
 - Both CNCF incubating projects
 
+Chưa hiểu vì sao phải giữ data trong 2h khi lấy về từ Prometheus
 **Ref:**
 https://www.libhunt.com/compare-VictoriaMetrics-vs-cortexproject--cortex
 https://github.com/thanos-io/thanos

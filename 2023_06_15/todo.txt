@@ -1,0 +1,3 @@
+1. Tìm hiểu kiến trúc (metrics monitoring)
+2. Thành phần + chức năng từng thành phần
+3. So sánh 3 services: VictoriaMetrics, Thanos, Cortex

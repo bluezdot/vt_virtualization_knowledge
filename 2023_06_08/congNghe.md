@@ -39,6 +39,8 @@ Trên thị trường nền tảng đám mây, **OpenStack** thường có sự 
     - Image Service - Giúp tìm kiếm, thu thập, cung cấp image cho các máy ảo.
     - Cung cấp RESTful API để quản lý, truy vấn image, metadata.
 
+**Mối quan hệ giữa các thành phân**
+![OpenStack Relationship](/2023_06_08/resources/openstack_arch.png)
 
 # 2. Kubernetes
 ### 2.1 Khái niệm
