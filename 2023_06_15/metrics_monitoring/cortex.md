@@ -1,7 +1,7 @@
 1. Định nghĩa
 Cortex is a horizontally scalable, highly available, multi-tenant, long term Prometheus.
 2. Thành phần
-![Cortex](/vt_virtualization_knowledge/2023_06_15/resources/cortex.png)
+![Cortex](../resources/cortex.png)
 - Remote write dữ liệu từ Prometheus đến Distributor. Distributor validate tính đúng đắn:
     - Tên các nhãn metric chính xác
     - Tuân thủ tối đa nhãn mỗi metric

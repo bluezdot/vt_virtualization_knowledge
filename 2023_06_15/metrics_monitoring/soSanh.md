@@ -25,6 +25,8 @@ Rank 2: M3DB & VictoriaMetrics
 
 Rank 1: Cortex & Thanos
 - Both CNCF incubating projects
+- Community-driven
+
 
 Chưa hiểu vì sao phải giữ data trong 2h khi lấy về từ Prometheus
 **Ref:**

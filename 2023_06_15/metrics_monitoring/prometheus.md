@@ -10,13 +10,15 @@
 https://www.airplane.dev/blog/prometheus-exporters
 - Alert-manager: Xử lí alert
 - other tools
-![Prometheus](/vt_virtualization_knowledge/2023_06_15/resources/prometheus.png)
+![Prometheus](../resources/prometheus.png)
 
-
+3. Vấn đề
 Prometheus không phù hợp cho lưu trữ dữ liệu trong khoảng thời gian dài (15 ngày). [Official document](https://prometheus.io/docs/prometheus/latest/storage/#operational-aspects) đề cập: 
 "Prometheus's local storage is not intended to be durable long-term storage; external solutions offer extended retention and data durability." 
 Tác giả gốc của Prometheus quyết định không xây dựng lớp lưu trữ phân tán mà giữ mọi thứ đơn giản nhất. Prometheus lấp đầy 1 ổ đĩa mà không phân mảnh hoặc sao chép dữ liệu. Giải pháp là sử dụng NFS (Network File System)
 
+Single point of failure
+1 server dùng cho cả scraping và visualizing
 **Ref:**
 https://github.com/hocchudong/ghichep-prometheus/blob/master/1.Gioi_thieu_Prometheus.md
 https://prometheus.io/docs

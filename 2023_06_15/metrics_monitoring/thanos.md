@@ -2,8 +2,8 @@
 Thanos is a highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (by thanos-io)
 
 2. Thành phần:
-![Thanos Sidecar](/vt_virtualization_knowledge/2023_06_15/resources/thanos_sidecar.png)
-![Thanos Receiver](/vt_virtualization_knowledge/2023_06_15/resources/thanos_receiver.png)
+![Thanos Sidecar](../resources/thanos_sidecar.png)
+![Thanos Receiver](../resources/thanos_receiver.png)
 - Sidecar: Kết nối tới Prometheus dưới dạng sidecar process, đọc data để query hoặc/và tải lên cloud storage. Giữ data trong vòng 2 giờ.
 - Store Gateway: Cổng dịch vụ cho cloud storage
 - Compactor: Nén và giữ lưu trữ trên cloud storage
