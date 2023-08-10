@@ -80,3 +80,4 @@ Kubernetes -> K8s cluster
 5. https://viblo.asia/p/cam-ngo-ban-dau-ve-kubernetes-aWj53LyeK6m
 6. https://viblo.asia/p/k8s-basic-tong-quan-cac-thanh-phan-cua-kubernetes-aAY4ql7qVPw
 7. https://www.cloudnativeviet.net/documents/kubernetes/overview/components/
+8. https://viblo.asia/p/ly-thuyet-tim-hieu-co-ban-ve-kubernetes-cac-thanh-phan-chinh-trong-mot-kubernetes-cluster-va-cac-khai-niem-co-ban-kem-video-WAyK8D7EKxX
